@@ -44,6 +44,10 @@
      <lastmod>2020-10-13</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
+     <loc>http://flubucore.dotnetcore.xyz/CI-Generation/</loc>
+     <lastmod>2020-10-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
      <loc>http://flubucore.dotnetcore.xyz/flubu-modules/</loc>
      <lastmod>2020-10-13</lastmod>
      <changefreq>daily</changefreq>
@@ -53,6 +57,10 @@
      <changefreq>daily</changefreq>
     </url><url>
      <loc>http://flubucore.dotnetcore.xyz/AwesomePlugins/awesome-plugins/</loc>
+     <lastmod>2020-10-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>http://flubucore.dotnetcore.xyz/FAQ/faq/</loc>
      <lastmod>2020-10-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
